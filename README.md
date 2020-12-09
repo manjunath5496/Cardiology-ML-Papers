@@ -206,7 +206,7 @@ Deep learning in quantitative PET myocardial perfusion imaging to predict advers
 <li><a target="_blank" href="https://github.com/manjunath5496/Cardiology-ML-Papers/blob/master/carc(106).pdf" style="text-decoration:none;">Automated detection of coarctation of
 aorta in neonates from two dimensional echocardiograms</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cardiology-ML-Papers/blob/master/carc(107).pdf" style="text-decoration:none;">Neural Network Prediction of ICU Length of Stay Following Cardiac Surgery Based on Pre-Incision Variables</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cardiology-ML-Papers/blob/master/carc(107).PDF" style="text-decoration:none;">Neural Network Prediction of ICU Length of Stay Following Cardiac Surgery Based on Pre-Incision Variables</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Cardiology-ML-Papers/blob/master/carc(108).pdf" style="text-decoration:none;">Predicting congenital heart defects: A comparison of three data mining methods</a></li> 
